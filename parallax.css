@@ -1,0 +1,67 @@
+body, html{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: sans-serif;
+}
+
+.image1{
+	background: url(LAtops.jpg);
+	background-size: ;
+	background-attachment: fixed;
+	opacity: 0.70;
+	height:800px;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+}
+
+#image2{
+	background: url(blur.jpg);
+	background-attachment: fixed;
+	opacity: 0.70;
+	height:800px;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+}
+
+#image3{
+	background: url(city.jpg);
+	background-attachment: fixed;
+	opacity: 0.70;
+	height:800px;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+}
+.text{
+	position: absolute;
+	top: 40%;
+	left: 33%;
+	padding: 20px;
+	font-size: 28px;
+	background-color: #111;
+	color: #fff;
+	letter-spacing: 8px;
+}
+
+#white{
+	color: #7a7a7a;
+	text-align: center;
+	line-height: 30px;
+	height: 300px;
+	padding: 50px 100px 0 100px;
+	
+}
+
+.dark{
+	color: #fff;
+	text-align: center;
+	line-height: 30px;
+	height: 300px;
+	padding: 50px 100px 0 100px;
+	background-color: #212121;
+}
